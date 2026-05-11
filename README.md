@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matias 👋</h1>
 
 <p align="center">
-  Backend Developer (Junior in progress) • Python • API Development
+  Backend Developer (Junior) • Python • API Development
 </p>
 
 <p align="center">
